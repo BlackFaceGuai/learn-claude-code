@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "15cbec5c4e2f5308",
+    "type": "split",
+    "children": [
+      {
+        "id": "57756b532c97cf6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3e8e9a85f136ff2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfb8dc77c34a15fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e295e7638ba8bccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e2d2b27d15a2e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c30f8901a12523b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f6ec33b4dc00dd69",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9ccf8bbad3331ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a448792bcf0ffe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a7711589ac256ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mylearn/学习笔记_S06_上下文压缩.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "学习笔记_S06_上下文压缩 的反向链接列表"
+            }
+          },
+          {
+            "id": "960bb780c837cba4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mylearn/学习笔记_S06_上下文压缩.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "学习笔记_S06_上下文压缩 的出链列表"
+            }
+          },
+          {
+            "id": "3a0cb01e47f87329",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "771028dd920991e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "49f76b3278a58a4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mylearn/学习笔记_S06_上下文压缩.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "学习笔记_S06_上下文压缩 的大纲"
+            }
+          },
+          {
+            "id": "d792a92854bd9695",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false,
+      "infranodus-graph-view:InfraNodus Graph View": false,
+      "obsidian-kanban:创建新看板": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "vscode-editor:新建代码文件": false
+    }
+  },
+  "active": "f3e8e9a85f136ff2",
+  "lastOpenFiles": [
+    "mylearn/s02_tool_use.py",
+    "mylearn/s03_todo_write.py",
+    "mylearn/s01_agent_loop.py",
+    "mylearn/s05_skill_loading.py",
+    "mylearn/s04_subagent.py",
+    "agents/s01_agent_loop.py",
+    "agents/s07_task_system.py",
+    "agents/s08_background_tasks.py",
+    "mylearn/学习笔记_S11_自主代理.md",
+    "mylearn/学习笔记_S10_团队协议.md",
+    "mylearn/学习笔记_S09_代理团队.md",
+    "mylearn/学习笔记_S08_后台任务.md",
+    "mylearn/学习笔记_S06_上下文压缩.md",
+    "mylearn/学习笔记_S05_技能加载.md",
+    "mylearn/学习笔记_S01_环境配置.md",
+    "mylearn/s07_task_system.py",
+    "mylearn/s08_background_tasks.py",
+    "mylearn/学习笔记_S07_任务系统.md",
+    "mylearn/学习笔记_S09_代理团队.md.tmp.27868.1780232282920",
+    "mylearn/assets/学习笔记_S07_任务系统/学习笔记_S07_任务系统 2026-05-31 19.22.28.excalidraw.md",
+    "mylearn/assets/学习笔记_S05_技能加载/学习笔记_S05_技能加载 2026-05-31 19.00.55.excalidraw.md",
+    "Excalidraw/学习笔记_S06_上下文压缩 2026-05-31 18.51.40.excalidraw.md"
+  ]
+}
